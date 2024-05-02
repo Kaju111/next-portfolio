@@ -9,6 +9,10 @@ module.exports = {
     extend: {
       fontFamily: {
         inter: ["var(--font-inter)"],
+        primary: ["Roboto Mono"],
+        name: ["Russo One"],
+        section: ["Dosis"],
+        last: ["Sofia Sans Condensed"],
       },
       colors: {
         background: "rgb(var(--background))",
