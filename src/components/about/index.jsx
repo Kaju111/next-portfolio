@@ -18,51 +18,46 @@ const AboutDetails = () => {
             <span>
               I am a self taught MERN developer. Started my journey of coding
               around the mid of 2022 and enjoying the ride so far.
-            </span>{" "}
+            </span>
             <span>
-              <span className="font-bold border-b-2">Favourite language:</span>{" "}
+              <span className="font-bold border-b-2">Favourite language:</span>
               Javascript || Favourite stack: MERN (Node, React and Mongo
               Express)
-            </span>{" "}
+            </span>
             <span>
               <span className="font-bold border-b-2">Hobbies:</span> 404 Not
               Found (no, seriously!! I really don't have any hobbies) OK, that
-              is it. Don't ask me how I wrote that much{" "}
+              is it. Don't ask me how I wrote that much
               <span>
                 <s>content</s>
               </span>
               (sh!t) on my <span className="font-bold ">"About"</span> page. But
-              still, if you do, the obvious answer would be:-{" "}
+              still, if you do, the obvious answer would be:-
               <span className="font-bold ">I HAVE NOOOOOOOOO IDEA!!</span> Want
               to say hi, don't you even think about finding me on social media.
-            </span>{" "}
+            </span>
             <span>
-              Oh, wait, wait, wait!!! In case you want to check out my{" "}
+              Oh, wait, wait, wait!!! In case you want to check out my
               <Link href="https://github.com/Kaju111" className="font-bold">
                 Github
-              </Link>{" "}
-              and{" "}
+              </Link>
+              and
               <Link
                 href="https://www.linkedin.com/in/kaju-saikia-2706422a9/"
                 className="font-bold"
               >
-                LinkedIn{" "}
+                LinkedIn
               </Link>
               profiles.
             </span>
             <span>
-              {" "}
-              wait, wait!!!<span className="font-bold ">
-                {" "}
-                no, seriously!!
-              </span>{" "}
-              I enjoy creating things that live on the internet, whether that be
+              wait, wait!!!<span className="font-bold ">no, seriously!!</span>I
+              enjoy creating things that live on the internet, whether that be
               websites, applications, or anything in between. My goal is to
               always build products that provide pixel-perfect, performant
               experiences.
-            </span>{" "}
+            </span>
             <span>
-              {" "}
               I love learning new and better ways to create seamless user
               experiences with clean, efficient, and scalable code. I consider
               work an ongoing education, and I'm always looking for
@@ -78,7 +73,7 @@ const AboutDetails = () => {
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <span className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            Demo project{" "}
+            Demo project
             <Link
               href="https://blank-eight.vercel.app/"
               className="font-semibold text-base text-blue-300 "
@@ -92,7 +87,7 @@ const AboutDetails = () => {
           className={"col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <span className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            Demo project{" "}
+            Demo project
             <Link
               href="https://server-frontend.vercel.app/"
               className="font-semibold text-base text-blue-300 "
