@@ -26,15 +26,15 @@ const AboutDetails = () => {
             </span>
             <span>
               <span className="font-bold border-b-2">Hobbies:</span> 404 Not
-              Found (no, seriously!! I really don't have any hobbies) OK, that
-              is it. Don't ask me how I wrote that much
+              Found (no, seriously!! I really do not have any hobbies) OK, that
+              is it. Do not ask me how I wrote that much
               <span>
                 <s>content</s>
               </span>
-              (sh!t) on my <span className="font-bold ">"About"</span> page. But
+              (sh!t) on my <span className="font-bold ">About</span> page. But
               still, if you do, the obvious answer would be:-
               <span className="font-bold ">I HAVE NOOOOOOOOO IDEA!!</span> Want
-              to say hi, don't you even think about finding me on social media.
+              to say hi, do not you even think about finding me on social media.
             </span>
             <span>
               Oh, wait, wait, wait!!! In case you want to check out my
@@ -60,7 +60,7 @@ const AboutDetails = () => {
             <span>
               I love learning new and better ways to create seamless user
               experiences with clean, efficient, and scalable code. I consider
-              work an ongoing education, and I'm always looking for
+              work an ongoing education, and I am always looking for
               opportunities to work with those who are willing to share their
               knowledge as much as I want to learn. At the end of the day, my
               primary goal is to create something beautiful with people that
